@@ -1,0 +1,2 @@
+When I was tetsing the arduino to see if I wired evrythingt correctly to make sure it would not spontausly combust. On the simalation software that i was using it was displaying a constant 0 for pin 7 on the serial monitor 
+when it was reading it with the digitalRead functionand using the unternal pullup resitor on the arduino when pin 7 was not connected to ground. This led me to try it on the actual Adrduino where it displayed a expected 1 when pin 7 was not grounded intead of a 0.
